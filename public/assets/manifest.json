@@ -1,0 +1,104 @@
+[
+  {
+    "file": "back.svg",
+    "sourceLayer": "Button / Back",
+    "width": 24.815200000000004,
+    "height": 41.5015
+  },
+  {
+    "file": "refresh.svg",
+    "sourceLayer": "Icon / Refresh",
+    "width": 44.00000000000159,
+    "height": 41.00000000000001
+  },
+  {
+    "file": "fullscreen.svg",
+    "sourceLayer": "Icon / Fullscreen",
+    "width": 37.0,
+    "height": 37.0
+  },
+  {
+    "file": "ip-settings.svg",
+    "sourceLayer": "Path / Icon",
+    "width": 47.9950000000008,
+    "height": 47.999985
+  },
+  {
+    "file": "model-manager.svg",
+    "sourceLayer": "Icon / Model Manager",
+    "width": 15.00000000478596,
+    "height": 15.0
+  },
+  {
+    "file": "usage.svg",
+    "sourceLayer": "Icon / Usage Logs",
+    "width": 14.0,
+    "height": 14.0
+  },
+  {
+    "file": "invoices.svg",
+    "sourceLayer": "Icon / Invoices",
+    "width": 13.0,
+    "height": 15.000000000000568
+  },
+  {
+    "file": "points.svg",
+    "sourceLayer": "Icon / Points",
+    "width": 14,
+    "height": 14
+  },
+  {
+    "file": "search.svg",
+    "sourceLayer": "Icon / Search",
+    "width": 19.116159999999923,
+    "height": 18.071159999999992
+  },
+  {
+    "file": "edit-ip.svg",
+    "sourceLayer": "Icon / Edit IP",
+    "width": 14.0,
+    "height": 14.000125116171091
+  },
+  {
+    "file": "install.svg",
+    "sourceLayer": "Icon / Install",
+    "width": 15.500000000000227,
+    "height": 17.000000000000227
+  },
+  {
+    "file": "delete.svg",
+    "sourceLayer": "Icon / Delete",
+    "width": 14.0,
+    "height": 16.0
+  },
+  {
+    "file": "chevron.svg",
+    "sourceLayer": "Status / Chevron",
+    "width": 11.0,
+    "height": 7.0
+  },
+  {
+    "file": "installed.svg",
+    "sourceLayer": "Status / Installed",
+    "width": 11.0,
+    "height": 11.0
+  },
+  {
+    "file": "luminous-gradient.svg",
+    "sourceLayer": "Artwork / Luminous Gradient",
+    "width": 353,
+    "height": 74
+  },
+  {
+    "file": "chameleon.png",
+    "width": "1460",
+    "height": "827",
+    "sourceLayer": "image0_1_27"
+  },
+  {
+    "file": "fantasy-yak.png",
+    "width": "1428",
+    "height": "796",
+    "sourceLayer": "image1_1_27"
+  }
+]

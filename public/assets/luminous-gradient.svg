@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="353" height="74" viewBox="410 255 353 74" preserveAspectRatio="none" fill="none"><defs><filter id="filter0_i_1_27" x="410" y="242.5" width="353" height="86.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+<feMorphology radius="4" operator="dilate" in="SourceAlpha" result="effect1_innerShadow_1_27" />
+<feOffset dy="-16" />
+<feGaussianBlur stdDeviation="8.25" />
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.79 0" />
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_1_27" />
+</filter>
+<clipPath id="clip1_1_27">
+<rect x="410" y="255" width="353" height="74" rx="10" fill="white" />
+</clipPath>
+<linearGradient id="paint1_linear_1_27" x1="410" y1="292" x2="763" y2="292" gradientUnits="userSpaceOnUse">
+<stop stop-color="#57BAFF" />
+<stop offset="0.48" stop-color="#A6C9F5" />
+<stop offset="1" stop-color="#E3E3DE" />
+</linearGradient>
+<filter id="filter1_f_1_27" x="354" y="212" width="226" height="185" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+<feGaussianBlur stdDeviation="25" result="effect1_foregroundBlur_1_27" />
+</filter>
+<filter id="filter2_f_1_27" x="392.6" y="233.6" width="48.8" height="48.8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+<feGaussianBlur stdDeviation="6.7" result="effect1_foregroundBlur_1_27" />
+</filter>
+<filter id="filter3_f_1_27" x="400.8" y="153.8" width="308.4" height="228.4" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+<feGaussianBlur stdDeviation="42.1" result="effect1_foregroundBlur_1_27" />
+</filter>
+<filter id="filter4_f_1_27" x="584" y="245" width="123" height="118" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+<feGaussianBlur stdDeviation="12" result="effect1_foregroundBlur_1_27" />
+</filter>
+<filter id="filter5_f_1_27" x="669" y="259" width="98" height="100" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+<feGaussianBlur stdDeviation="9" result="effect1_foregroundBlur_1_27" />
+</filter>
+<filter id="filter6_f_1_27" x="488" y="272" width="175" height="105" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+<feGaussianBlur stdDeviation="16" result="effect1_foregroundBlur_1_27" />
+</filter>
+<filter id="filter7_f_1_27" x="537" y="320" width="124" height="49" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix" />
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur_1_27" />
+</filter>
+</defs><g id="Artwork / Luminous Gradient" filter="url(#filter0_i_1_27)">
+<g clip-path="url(#clip1_1_27)">
+<rect x="410" y="255" width="353" height="74" rx="10" fill="url(#paint1_linear_1_27)" />
+<g id="Electric blue bloom" opacity="0.95" filter="url(#filter1_f_1_27)">
+<ellipse cx="467" cy="304.5" rx="63" ry="42.5" fill="#0070FF" />
+</g>
+<g id="Electric blue bloom_2" opacity="0.95" filter="url(#filter2_f_1_27)">
+<circle cx="417" cy="258" r="11" fill="white" />
+</g>
+<g id="Upper blue haze" opacity="0.7" filter="url(#filter3_f_1_27)">
+<ellipse cx="555" cy="268" rx="70" ry="30" fill="#63A3FF" />
+</g>
+<g id="Soft lavender" opacity="0.65" filter="url(#filter4_f_1_27)">
+<ellipse cx="645.5" cy="304" rx="37.5" ry="35" fill="#C9C7EB" />
+</g>
+<g id="Warm right light" opacity="0.65" filter="url(#filter5_f_1_27)">
+<ellipse cx="718" cy="309" rx="31" ry="32" fill="#FFE3C2" />
+</g>
+<g id="Cyan lower halo" filter="url(#filter6_f_1_27)">
+<ellipse cx="575.5" cy="324.5" rx="55.5" ry="20.5" fill="#7AFFFF" />
+</g>
+<g id="White lower light" filter="url(#filter7_f_1_27)">
+<ellipse cx="599" cy="344.5" rx="52" ry="14.5" fill="white" />
+</g>
+</g>
+<rect x="410.5" y="255.5" width="352" height="73" rx="9.5" stroke="white" />
+</g>
+</svg>
