@@ -2,6 +2,8 @@
 
 Figma의 AI Model Manager를 React + TypeScript + Vite로 구현한 웹 데모입니다. 서버/API 연결 없이 브라우저에서 설치와 저장 공간을 시뮬레이션합니다.
 
+공개 사이트: https://ai-model-manager-virid.vercel.app/
+
 Vercel 배포 설정은 `vercel.json`에 준비되어 있습니다. 실제 배포와 GitHub 자동 재배포 절차는 [DEPLOYMENT.md](./DEPLOYMENT.md)를 참고하세요.
 
 ## 실행

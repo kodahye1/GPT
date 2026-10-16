@@ -9,9 +9,16 @@
 - `.gitignore`와 `.vercelignore`: 로컬 의존성, 빌드 결과, 인증 연결 정보와 환경 파일 제외.
 - 환경 변수와 백엔드 서버는 필요하지 않습니다.
 
-GitHub 저장소: https://github.com/kodahye1/GPT . Production URL과 실제 배포 결과는 배포 완료 후 이 문서에 기록합니다.
+## 실제 배포 결과
 
-2026-10-16 검증 결과: `npm ci`, 기존 테스트 8개, TypeScript 검사와 Vite 프로덕션 빌드가 모두 통과했습니다. 원본 소스·에셋·라이선스 26개 파일의 SHA-256이 사본과 일치합니다. 로컬 프로덕션 미리보기와 JS/CSS 요청이 HTTP 200을 반환했고, 브라우저에서 설치 진행/완료, 용량 반영, 새로고침 후 저장 상태 유지, 검색, IP 추가를 확인했습니다. 브라우저 콘솔 오류·경고는 발견되지 않았습니다. Vercel 원격 빌드와 외부 기기 접속은 계정 연결 및 실제 배포 후 확인해야 합니다.
+- 공개 Production URL: https://ai-model-manager-virid.vercel.app/
+- Vercel 프로젝트: `dahye14/ai-model-manager`
+- GitHub 저장소: https://github.com/kodahye1/GPT
+- 배포 상태: `READY` (Production)
+- 로그인하지 않은 HTTP 요청으로 공개 사이트, JS 파일, SPA 경로가 HTTP 200을 반환함을 확인했습니다.
+- 자동 재배포: GitHub 로그인 연결은 완료됐습니다. Vercel API가 `Vercel App is not installed`라고 응답하므로, https://github.com/apps/vercel 에서 Vercel 앱을 설치하고 `Only select repositories` → `GPT`를 허용해야 합니다. 이후 기존 Vercel 프로젝트에 저장소를 연결하면 됩니다.
+
+2026-10-16 검증 결과: `npm ci`, 기존 테스트 8개, TypeScript 검사와 Vite 프로덕션 빌드가 모두 통과했습니다. 원본 소스·에셋·라이선스 26개 파일의 SHA-256이 사본과 일치합니다. 로컬 프로덕션 미리보기와 JS/CSS 요청이 HTTP 200을 반환했고, 브라우저에서 설치 진행/완료, 용량 반영, 새로고침 후 저장 상태 유지, 검색, IP 추가를 확인했습니다. Vercel 원격 빌드도 성공했습니다. 공개 URL은 로그인 없는 HTTP 200 응답과 브라우저의 앱 화면을 확인했습니다. 실제 휴대폰과 다른 PC에서의 최종 접속 확인은 아래 절차를 사용하면 됩니다.
 
 ## 1. GitHub 없이 바로 배포
 
