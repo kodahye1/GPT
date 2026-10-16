@@ -4,6 +4,8 @@ Figma의 AI Model Manager를 React + TypeScript + Vite로 구현한 웹 데모�
 
 공개 사이트: https://ai-model-manager-virid.vercel.app/
 
+`main` 브랜치에 커밋을 올리면 Vercel이 같은 공개 주소로 자동 재배포합니다.
+
 Vercel 배포 설정은 `vercel.json`에 준비되어 있습니다. 실제 배포와 GitHub 자동 재배포 절차는 [DEPLOYMENT.md](./DEPLOYMENT.md)를 참고하세요.
 
 ## 실행

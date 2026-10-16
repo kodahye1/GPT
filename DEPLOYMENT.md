@@ -16,7 +16,21 @@
 - GitHub 저장소: https://github.com/kodahye1/GPT
 - 배포 상태: `READY` (Production)
 - 로그인하지 않은 HTTP 요청으로 공개 사이트, JS 파일, SPA 경로가 HTTP 200을 반환함을 확인했습니다.
-- 자동 재배포: GitHub 로그인 연결은 완료됐습니다. Vercel API가 `Vercel App is not installed`라고 응답하므로, https://github.com/apps/vercel 에서 Vercel 앱을 설치하고 `Only select repositories` → `GPT`를 허용해야 합니다. 이후 기존 Vercel 프로젝트에 저장소를 연결하면 됩니다.
+- 자동 재배포: GitHub Vercel 앱과 `kodahye1/GPT` 저장소 연결을 완료했습니다. Production Branch는 `main`입니다. 이 브랜치의 변경 사항은 같은 공개 URL로 자동 배포됩니다.
+
+## 이후 코드 수정하기
+
+이미 복제한 이 프로젝트 폴더에서 코드를 수정하고 실행합니다.
+
+```powershell
+npm test
+npm run build
+git add .
+git commit -m "Update AI Model Manager"
+git push origin main
+```
+
+GitHub 인증 창이 열리면 본인 계정으로 로그인합니다. GitHub 웹에서 파일을 수정하고 `main`에 커밋해도 자동 배포됩니다. 진행 상태는 https://vercel.com/dahye14/ai-model-manager/deployments 에서 확인합니다. Vercel CLI를 매번 실행할 필요는 없습니다.
 
 2026-10-16 검증 결과: `npm ci`, 기존 테스트 8개, TypeScript 검사와 Vite 프로덕션 빌드가 모두 통과했습니다. 원본 소스·에셋·라이선스 26개 파일의 SHA-256이 사본과 일치합니다. 로컬 프로덕션 미리보기와 JS/CSS 요청이 HTTP 200을 반환했고, 브라우저에서 설치 진행/완료, 용량 반영, 새로고침 후 저장 상태 유지, 검색, IP 추가를 확인했습니다. Vercel 원격 빌드도 성공했습니다. 공개 URL은 로그인 없는 HTTP 200 응답과 브라우저의 앱 화면을 확인했습니다. 실제 휴대폰과 다른 PC에서의 최종 접속 확인은 아래 절차를 사용하면 됩니다.
 
