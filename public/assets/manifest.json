@@ -100,5 +100,19 @@
     "width": "1428",
     "height": "796",
     "sourceLayer": "image1_1_27"
+  },
+  {
+    "file": "new-badge.svg",
+    "sourceLayer": "Badge / New",
+    "width": 44,
+    "height": 20,
+    "designCheckedOn": "2026-10-19"
+  },
+  {
+    "file": "badge-sparkle.svg",
+    "sourceLayer": "Icon / Concave Four-Point Star",
+    "width": 6.274,
+    "height": 6.274,
+    "designCheckedOn": "2026-10-19"
   }
 ]

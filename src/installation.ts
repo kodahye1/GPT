@@ -6,8 +6,6 @@ export interface Model {
   isNew?: boolean;
   featured?: boolean;
   category?: string;
-  headline?: string;
-  description?: string;
 }
 
 export interface Target {

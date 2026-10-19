@@ -1,0 +1,200 @@
+[
+  {
+    "name": "minimax-primary.webp",
+    "repo": "MiniMax-AI/MiniMax-H3",
+    "url": "https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/t2va.mp4",
+    "time": 1.5,
+    "localPath": "/assets/models/minimax-primary.webp",
+    "dimensions": [
+      1280,
+      732
+    ],
+    "sha256": "c197cd27c8f4717109db13225385be42f42d22a4b98934d267757045325710bd",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "minimax-secondary.webp",
+    "repo": "MiniMax-AI/MiniMax-H3",
+    "url": "https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/r2va.mp4",
+    "time": 2,
+    "localPath": "/assets/models/minimax-secondary.webp",
+    "dimensions": [
+      1280,
+      732
+    ],
+    "sha256": "70966a88108b81e3d99d87fb545c8e97665de0a393b2511981de4d6155219ff1",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "hunyuan-primary.png",
+    "repo": "Tencent-Hunyuan/HunyuanVideo-1.5",
+    "url": "https://github.com/user-attachments/assets/3bc8e55d-c211-454e-8067-128c0e215eb6",
+    "localPath": "/assets/models/hunyuan-primary.png",
+    "dimensions": [
+      1280,
+      768
+    ],
+    "sha256": "99e55ca3dcd43b85d22a145a32b87b131081e75b22bf12c237a38540c62094b4",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "hunyuan-secondary.png",
+    "repo": "Tencent-Hunyuan/HunyuanVideo-1.5",
+    "url": "https://github.com/user-attachments/assets/7657ce60-90b5-4fdc-b713-0eaa55829b09",
+    "localPath": "/assets/models/hunyuan-secondary.png",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "sha256": "742fbda213354bc2ccb5bb2372f55cf49858941dca9be5a59927c1aafb64928c",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "wan-primary.jpg",
+    "repo": "Wan-Video/Wan2.2",
+    "url": "https://raw.githubusercontent.com/Wan-Video/Wan2.2/main/examples/i2v_input.JPG",
+    "localPath": "/assets/models/wan-primary.jpg",
+    "dimensions": [
+      832,
+      1104
+    ],
+    "sha256": "077e3d965090c9028c69c00931675f42e1acc815c6eb450ab291b3b72d211a8e",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "wan-secondary.png",
+    "repo": "Wan-Video/Wan2.2",
+    "url": "https://raw.githubusercontent.com/Wan-Video/Wan2.2/main/examples/Five%20Hundred%20Miles.png",
+    "localPath": "/assets/models/wan-secondary.png",
+    "dimensions": [
+      1280,
+      720
+    ],
+    "sha256": "5775ff7fbb162b937ec7ea2ff028cf4207d77a156720f9be822004b549ab4e98",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "ltx-primary.webp",
+    "repo": "Lightricks/LTX-2",
+    "url": "https://github.com/user-attachments/assets/4414adc0-086c-43de-b367-9362eeb20228",
+    "time": 1.5,
+    "localPath": "/assets/models/ltx-primary.webp",
+    "dimensions": [
+      1280,
+      720
+    ],
+    "sha256": "6dd18ca12b472c66a02b1b94a0cb5db5f229a8bfa1e277d8e6ed3961b039ed15",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "kandinsky-primary.jpg",
+    "repo": "kandinskylab/kandinsky-5",
+    "url": "https://raw.githubusercontent.com/kandinskylab/kandinsky-5/main/assets/generation_examples/images/1.jpg",
+    "localPath": "/assets/models/kandinsky-primary.jpg",
+    "dimensions": [
+      1344,
+      768
+    ],
+    "sha256": "4888ff821aab23687404a4f32b3ab3246631ea031b574775b609f95bc353cd48",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "kandinsky-secondary.jpg",
+    "repo": "kandinskylab/kandinsky-5",
+    "url": "https://raw.githubusercontent.com/kandinskylab/kandinsky-5/main/assets/generation_examples/images/2.jpg",
+    "localPath": "/assets/models/kandinsky-secondary.jpg",
+    "dimensions": [
+      1344,
+      768
+    ],
+    "sha256": "cfb86ae5dec2f49426d6c19fdd051b70859b1f0252ab88c21556b233cb7e0b43",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "cogvideo-primary.png",
+    "repo": "zai-org/CogVideo",
+    "url": "https://raw.githubusercontent.com/zai-org/CogVideo/main/inference/gradio_composite_demo/example_images/camping.png",
+    "localPath": "/assets/models/cogvideo-primary.png",
+    "dimensions": [
+      720,
+      480
+    ],
+    "sha256": "268c1ac3f1a20238c737652998aedc8d6b0d1bad986700c105a2673505046a7a",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "cogvideo-secondary.png",
+    "repo": "zai-org/CogVideo",
+    "url": "https://raw.githubusercontent.com/zai-org/CogVideo/main/inference/gradio_composite_demo/example_images/beach.png",
+    "localPath": "/assets/models/cogvideo-secondary.png",
+    "dimensions": [
+      720,
+      480
+    ],
+    "sha256": "d667f24abd4adb3d3e6b06489598cd834dfc690624f7761bde9a1de4551286b1",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "longcat-primary.png",
+    "repo": "MeiGen-AI/LongCat-Video-Avatar",
+    "url": "https://raw.githubusercontent.com/MeiGen-AI/LongCat-Video-Avatar/main/videos/demo2/i2v_singer_9.png",
+    "localPath": "/assets/models/longcat-primary.png",
+    "dimensions": [
+      1216,
+      768
+    ],
+    "sha256": "7f3adb351f611b7595ce0e6098b4a490b94aad5b1da03e26a4bf82356f5753cd",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "longcat-secondary.webp",
+    "repo": "MeiGen-AI/LongCat-Video-Avatar",
+    "url": "https://raw.githubusercontent.com/MeiGen-AI/LongCat-Video-Avatar/main/videos/actor2/actor_13_new.mp4",
+    "time": 1.5,
+    "localPath": "/assets/models/longcat-secondary.webp",
+    "dimensions": [
+      1280,
+      704
+    ],
+    "sha256": "c8e60caa1c836f40c734984f75e44fb868628141f0ca2b6aefacaaf0437dff9b",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "mova-primary.jpg",
+    "repo": "OpenMOSS/MOVA",
+    "url": "https://raw.githubusercontent.com/OpenMOSS/MOVA/main/assets/single_person.jpg",
+    "localPath": "/assets/models/mova-primary.jpg",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "ada81036c64ea8dc52cf3a2be864cd3db7d134c0c452030144603730fbb7e8b0",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "mova-secondary.png",
+    "repo": "OpenMOSS/MOVA",
+    "url": "https://raw.githubusercontent.com/OpenMOSS/MOVA/main/assets/multi_person.png",
+    "localPath": "/assets/models/mova-secondary.png",
+    "dimensions": [
+      2192,
+      1226
+    ],
+    "sha256": "fb0ebbd41b0c01923096185111e01b729f1bb285acfee144090b9aa9862c0966",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "name": "ltx-secondary.webp",
+    "repo": "Lightricks/LTX-2",
+    "url": "https://github.com/user-attachments/assets/4414adc0-086c-43de-b367-9362eeb20228",
+    "time": 4,
+    "cacheKey": "ltx-primary.webp",
+    "localPath": "/assets/models/ltx-secondary.webp",
+    "dimensions": [
+      1280,
+      720
+    ],
+    "sha256": "077148ac15b9c5972a149977457a87889e55e4a5716b744145fe98acf8b4db38",
+    "retrievedOn": "2026-10-19"
+  }
+]
